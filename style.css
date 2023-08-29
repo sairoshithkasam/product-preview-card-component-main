@@ -30,6 +30,7 @@ img{
 }
 .right{
     background-color: white;
+  height:65vh;
 }
 .right h1{
     padding:2rem;
